@@ -1,0 +1,28 @@
+{
+  "name": "YarnRpg",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "BotVoter",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.24",
+    "anticaptcha": "^2.2.0",
+    "async": "^3.2.4",
+    "axios": "^0.26.1",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "line-reader": "^0.4.0",
+    "log4js": "^6.4.4",
+    "md5": "^2.3.0",
+    "proxy-chain": "^2.0.2",
+    "puppeteer": "^13.5.2",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.2",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "puppeteer-hcaptcha": "^3.0.6",
+    "readline": "^1.3.0",
+    "request": "^2.88.2",
+    "user-agents": "^1.0.1068"
+  }
+}
